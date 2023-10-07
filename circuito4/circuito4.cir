@@ -1,0 +1,10 @@
+* Lista nodi
+
+R1 1 3 1; Resistore di 1 Ohm
+R2 1 2 2; Resistore di 2 Ohm
+R3 2 3 3; Resistore di 3 Ohm
+R4 0 1 4; Resistore di 4 Ohm
+I5 0 2 5; GIC 5 Ampere
+V6 3 0 6; GIT 6 Volt
+
+.op ; analisi DC
